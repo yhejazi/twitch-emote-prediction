@@ -1,11 +1,11 @@
 # Twitch Emote Prediction
 **Author: Yasmine Hejazi**
 
-    .
-    ├── README.md              
+    .           
     ├── src                     
     │   ├── notebooks             # Model code
     │   ├── scrapers              # Data scrapers
+    ├── README.md   
     └── research_study_paper.pdf  # Full report
 
 
